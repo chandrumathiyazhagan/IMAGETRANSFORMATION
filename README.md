@@ -5,28 +5,22 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 
 ## Software Required:
 Anaconda - Python 3.7
+
 ## Algorithm:
 ## Step1:
 Import the necessary libraries and read the original image and save it as a image variable.
-
 ## Step2:
 Translate the image.
-
 ## Step3:
 Scale the image.
-
 ## Step4:
 Shear the image.
-
 ## Step5:
 Find reflection of image.
-
 ## step6:
 Rotate the image.
-
 ## Step7:
 Crop the image.
-
 ## Step8:
 Display all the Transformed images.
 
